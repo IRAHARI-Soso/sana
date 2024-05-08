@@ -1,2 +1,2 @@
-# sana
-DEVELOPMENT
+# git101
+git basic DEMO
